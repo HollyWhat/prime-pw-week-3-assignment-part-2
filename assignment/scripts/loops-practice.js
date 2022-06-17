@@ -31,6 +31,8 @@ for(let i=3; i<6 ; i++ ){
 
 // 1.c. TODO: Write a for loop to console.log EVEN numbers from 2 to 10
 //   - Which part of the example loop do you need to change to do this?
+// we need to first find a way to only have the even numbers selected 
+// we also need to adjust the beging of th or loop to refrelct the problem at hand
 console.log('count even numbers from 2 to 10 (2, 4, 6, 8, 10):');
 
 for(let i=0 ; i<11 ; i++){
@@ -56,6 +58,10 @@ let stars = ['Polaris', 'Gacrux', 'Formalhaut', 'Rigel', 'Deneb']
 
 // 2.a. TODO: Write a for of loop to console.log each star in the 'stars' array
 console.log('Some stars:');
+//for of loop 
+for(){
+
+}
 
 
 // 3. While loops  
