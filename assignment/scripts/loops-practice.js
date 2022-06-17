@@ -74,12 +74,11 @@ console.log('---- 3. While loop ----');
 console.log('Some stars using while:');
 // let stars = ['Polaris', 'Gacrux', 'Formalhaut', 'Rigel', 'Deneb']
 
-let starsID = stars.indexOf;
-
-while( starsID ){
-  starsID++;
-  console.log('in the while loop', starsID );
+while( stars ){
+  console.log("in star loop", stars);
+  stars++;
 }
+
 
 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
